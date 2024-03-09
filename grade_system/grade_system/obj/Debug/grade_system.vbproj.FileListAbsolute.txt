@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\bin\Debug\grade_system.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\bin\Debug\grade_system.exe
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\bin\Debug\grade_system.pdb
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\bin\Debug\grade_system.xml
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.exe
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.xml
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.pdb
+c:\users\admin\documents\visual studio 2015\Projects\grade_system\grade_system\obj\Debug\grade_system.grade_form.resources
